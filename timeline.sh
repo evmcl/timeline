@@ -8,6 +8,8 @@
 # time-lapsed video of the day's activity. Read below for requirements and
 # customisation.
 #
+# Run "timeline.sh -h" for command line usage.
+#
 ###############################################################################
 #
 # MIT License
