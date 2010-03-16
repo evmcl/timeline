@@ -2,8 +2,9 @@ Collects screen captures and (optionally) webcam captures and builds a daily
 time-lapsed video of the day's activity. Read below for requirements and
 customisation.
 
-Inspired by the public domain script at http://gist.github.com/311181 by Dan
-Paluska.
+Inspired by the public domain script at
+[http://gist.github.com/311181](http://gist.github.com/311181) by [Dan
+Paluska](http://github.com/danpaluska).
 
 This version is an endeavour to clean things up a bit, isolate all the tweaking
 to the top of the script and document them, and add a few other refinements,
@@ -27,3 +28,5 @@ Linux.
 For macs there is something called wacaw I believe.
 
 Review the script file to review and customise for your environment.
+
+(MIT License)
