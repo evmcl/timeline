@@ -1,3 +1,7 @@
+# Timeline
+
+[https://github.com/evmcl/timeline](https://github.com/evmcl/timeline)
+
 Collects screen captures and (optionally) webcam captures and builds a daily
 time-lapsed video of the day's activity. Read below for requirements and
 customisation.
